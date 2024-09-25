@@ -20,8 +20,6 @@ This project is built using **Maven** for dependency management, and it uses **J
 
 - **Brief description**: See above.
 - **Video of builds and tests running**: Please refer to the attached video file in the submission (video shows Maven builds and unit tests passing).
-- **Repository link**: [https://github.com/Angello-ops/CSE-2102-Lab3](https://github.com/Angello-ops/CSE-2102-Lab3).
-- **Instructions for downloading/running the system**: See below.
 
 ## How to Download and Run the System
 
