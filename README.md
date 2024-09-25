@@ -16,11 +16,6 @@ The main components of this project are:
 
 This project is built using **Maven** for dependency management, and it uses **JUnit4** for unit testing.
 
-## Grading Requirements
-
-- **Brief description**: See above.
-- **Video of builds and tests running**: Please refer to the attached video file in the submission (video shows Maven builds and unit tests passing).
-
 ## How to Download and Run the System
 
 ### Prerequisites
