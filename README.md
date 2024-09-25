@@ -45,7 +45,7 @@ To download the project, you can either:
 
 1. **Navigate to the project directory**:
    ```bash
-   cd CSE-2102-Lab3
+   cd CSE-2102-Lab3/pizzafactory/
    ```
 
 2. **Compile the code**:
